@@ -1,0 +1,2 @@
+# ejemploclase2
+clase
